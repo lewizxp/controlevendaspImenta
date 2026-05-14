@@ -1,0 +1,13 @@
+{
+  "name": "Loja Donna Pimenta",
+  "short_name": "Loja",
+  "description": "Controle de vendas, lucros e cobranças",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#4B44CC",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
